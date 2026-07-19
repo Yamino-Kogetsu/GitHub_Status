@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="250" viewBox="0 0 780 250" role="img" aria-label="GitHub Streak">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#1a1b27" />
+        <stop offset="100%" stop-color="#16161e" />
+      </linearGradient>
+      <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#bb9af7" stop-opacity="0.16" />
+        <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0" />
+      </linearGradient>
+    </defs>
+    <rect x="0" y="0" width="780" height="250" rx="16" fill="url(#bg)" stroke="#414868" />
+    <rect x="16" y="16" width="748" height="218" rx="12" fill="none" stroke="#414868" opacity="0.65" />
+    <rect x="16" y="16" width="748" height="56" rx="12" fill="url(#shine)" opacity="0.85" />
+    <text x="36" y="48" fill="#c0caf5" font-size="22" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">GitHub Streak</text>
+    <text x="36" y="72" fill="#9aa5ce" font-size="12.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">@profile snapshot</text>
+  
+    <g transform="translate(36,110)">
+      <rect x="0" y="0" width="708" height="100" rx="14" fill="#1f2335" stroke="#414868" />
+      <text x="18" y="28" fill="#c0caf5" font-size="18" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">Contribution streak</text>
+      <text x="18" y="51" fill="#9aa5ce" font-size="12.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">0 current days · 0 longest days · 0 total contributions</text>
+      <rect x="18" y="68" width="650" height="12" rx="6" fill="#414868" opacity="0.22" />
+      <rect x="18" y="68" width="24" height="12" rx="6" fill="#7aa2f7" />
+      <text x="678" y="78" fill="#9aa5ce" text-anchor="end" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">0%</text>
+    </g>
+  </svg>
