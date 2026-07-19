@@ -1,0 +1,29 @@
+{
+  "user": {
+    "username": "Yamino-Kogetsu",
+    "title": "Yamino-Kogetsu",
+    "theme": "tokyonight",
+    "transparent": false
+  },
+  "stats": {
+    "show_icons": true,
+    "hide_border": false,
+    "custom_title": "GitHub Stats",
+    "hide": [
+      "stars",
+      "prs"
+    ],
+    "show": []
+  },
+  "top_langs": {
+    "enabled": true,
+    "langs_count": 6,
+    "stats_format": "bytes",
+    "exclude_repo": []
+  },
+  "repo_card": {
+    "enabled": true,
+    "owner": "Yamino-Kogetsu",
+    "repo": "GitHub_Status"
+  }
+}
