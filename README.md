@@ -11,8 +11,8 @@ This repo generates SVG cards in the repository root using **GitHub Actions** an
 
 ## Demo
 
-[Stats](stats.svg)
-[Streak](streak.svg)
+![Stats](stats.svg)
+![Streak](streak.svg)
 
 ## Setup
 
