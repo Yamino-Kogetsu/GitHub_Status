@@ -9,6 +9,11 @@ This repo generates SVG cards in the repository root using **GitHub Actions** an
 - `repo-card.svg`
 - `streak.svg`
 
+## Demo
+
+[Stats](stats.svg)
+[Streak](streak.svg)
+
 ## Setup
 
 1. Push this repo to GitHub.
