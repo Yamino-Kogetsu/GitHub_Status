@@ -1,0 +1,8 @@
+{
+  "name": "GitHub_Status",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "node scripts/render.mjs"
+  }
+}
