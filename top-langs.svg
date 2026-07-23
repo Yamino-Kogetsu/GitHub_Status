@@ -19,42 +19,42 @@
     
         <g transform="translate(0,150)">
           <text x="36" y="13" fill="#c0caf5" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">JavaScript</text>
-          <text x="744" y="13" fill="#9aa5ce" font-size="13" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">405,674 bytes</text>
+          <text x="744" y="13" fill="#9aa5ce" font-size="13" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">418,530 bytes</text>
           <rect x="36" y="20" width="684" height="10" rx="5" fill="#414868" opacity="0.25" />
           <rect x="36" y="20" width="610" height="10" rx="5" fill="#f1e05a" />
         </g>
       
         <g transform="translate(0,188)">
           <text x="36" y="13" fill="#c0caf5" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">TypeScript</text>
-          <text x="744" y="13" fill="#9aa5ce" font-size="13" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">286,713 bytes</text>
+          <text x="744" y="13" fill="#9aa5ce" font-size="13" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">351,128 bytes</text>
           <rect x="36" y="20" width="684" height="10" rx="5" fill="#414868" opacity="0.25" />
-          <rect x="36" y="20" width="431" height="10" rx="5" fill="#3178c6" />
+          <rect x="36" y="20" width="512" height="10" rx="5" fill="#3178c6" />
         </g>
       
         <g transform="translate(0,226)">
+          <text x="36" y="13" fill="#c0caf5" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">CSS</text>
+          <text x="744" y="13" fill="#9aa5ce" font-size="13" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">18,275 bytes</text>
+          <rect x="36" y="20" width="684" height="10" rx="5" fill="#414868" opacity="0.25" />
+          <rect x="36" y="20" width="27" height="10" rx="5" fill="#563d7c" />
+        </g>
+      
+        <g transform="translate(0,264)">
+          <text x="36" y="13" fill="#c0caf5" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">HTML</text>
+          <text x="744" y="13" fill="#9aa5ce" font-size="13" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">12,536 bytes</text>
+          <rect x="36" y="20" width="684" height="10" rx="5" fill="#414868" opacity="0.25" />
+          <rect x="36" y="20" width="18" height="10" rx="5" fill="#e34c26" />
+        </g>
+      
+        <g transform="translate(0,302)">
           <text x="36" y="13" fill="#c0caf5" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">PHP</text>
           <text x="744" y="13" fill="#9aa5ce" font-size="13" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">8,494 bytes</text>
           <rect x="36" y="20" width="684" height="10" rx="5" fill="#414868" opacity="0.25" />
           <rect x="36" y="20" width="16" height="10" rx="5" fill="#4F5D95" />
         </g>
       
-        <g transform="translate(0,264)">
-          <text x="36" y="13" fill="#c0caf5" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">CSS</text>
-          <text x="744" y="13" fill="#9aa5ce" font-size="13" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">3,176 bytes</text>
-          <rect x="36" y="20" width="684" height="10" rx="5" fill="#414868" opacity="0.25" />
-          <rect x="36" y="20" width="16" height="10" rx="5" fill="#563d7c" />
-        </g>
-      
-        <g transform="translate(0,302)">
-          <text x="36" y="13" fill="#c0caf5" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">HTML</text>
-          <text x="744" y="13" fill="#9aa5ce" font-size="13" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">2,214 bytes</text>
-          <rect x="36" y="20" width="684" height="10" rx="5" fill="#414868" opacity="0.25" />
-          <rect x="36" y="20" width="16" height="10" rx="5" fill="#e34c26" />
-        </g>
-      
         <g transform="translate(0,340)">
           <text x="36" y="13" fill="#c0caf5" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">Shell</text>
-          <text x="744" y="13" fill="#9aa5ce" font-size="13" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">718 bytes</text>
+          <text x="744" y="13" fill="#9aa5ce" font-size="13" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">757 bytes</text>
           <rect x="36" y="20" width="684" height="10" rx="5" fill="#414868" opacity="0.25" />
           <rect x="36" y="20" width="16" height="10" rx="5" fill="#89e051" />
         </g>
