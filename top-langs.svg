@@ -19,16 +19,16 @@
     
         <g transform="translate(0,150)">
           <text x="36" y="13" fill="#c0caf5" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">JavaScript</text>
-          <text x="744" y="13" fill="#9aa5ce" font-size="13" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">418,530 bytes</text>
+          <text x="744" y="13" fill="#9aa5ce" font-size="13" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">412,569 bytes</text>
           <rect x="36" y="20" width="684" height="10" rx="5" fill="#414868" opacity="0.25" />
           <rect x="36" y="20" width="610" height="10" rx="5" fill="#f1e05a" />
         </g>
       
         <g transform="translate(0,188)">
           <text x="36" y="13" fill="#c0caf5" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">TypeScript</text>
-          <text x="744" y="13" fill="#9aa5ce" font-size="13" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">351,128 bytes</text>
+          <text x="744" y="13" fill="#9aa5ce" font-size="13" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">360,973 bytes</text>
           <rect x="36" y="20" width="684" height="10" rx="5" fill="#414868" opacity="0.25" />
-          <rect x="36" y="20" width="512" height="10" rx="5" fill="#3178c6" />
+          <rect x="36" y="20" width="534" height="10" rx="5" fill="#3178c6" />
         </g>
       
         <g transform="translate(0,226)">
@@ -42,7 +42,7 @@
           <text x="36" y="13" fill="#c0caf5" font-size="13" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">HTML</text>
           <text x="744" y="13" fill="#9aa5ce" font-size="13" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">12,536 bytes</text>
           <rect x="36" y="20" width="684" height="10" rx="5" fill="#414868" opacity="0.25" />
-          <rect x="36" y="20" width="18" height="10" rx="5" fill="#e34c26" />
+          <rect x="36" y="20" width="19" height="10" rx="5" fill="#e34c26" />
         </g>
       
         <g transform="translate(0,302)">
